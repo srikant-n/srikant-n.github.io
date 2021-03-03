@@ -1,0 +1,23 @@
+@import "info.css";
+@import "portfolio.css";
+
+* {
+  --bg: #666;
+  --info-bg: #ddd;
+  --skills-bg: #eb334b;
+  --title: #db162f;
+  --icon: #555;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: var(--bg);
+  font-family: "Nunito", sans-serif;
+}
+
+@media (min-width: 750px) {
+  body {
+    overflow: hidden;
+  }
+}
