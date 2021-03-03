@@ -8,7 +8,7 @@ const projects = [
     {name:"25+5 Clock", img:"./images/25-5-clock.jpg", demo:"https://codepen.io/srikant-nimmagadda/full/qBqZbyB", repo:"https://codepen.io/srikant-nimmagadda/pen/qBqZbyB", tags:["React", "Redux", "Sass"]},
     {name:"Social Proof Section", img:"./images/social-proof-section.jpg", demo:"https://srikant-n.github.io/fm-social-proof-section/", repo:"https://github.com/srikant-n/fm-social-proof-section", tags:["CSS", "Grid"]},
     {name:"FAQ Accordion", img:"./images/faq-accordion.jpg", demo:"https://srikant-n.github.io/fm-faq-accordion-card/index.html", repo:"https://github.com/srikant-n/fm-faq-accordion-card", tags:["CSS"]},
-    {name:"Random Quote", img:"./images/random-quote.jpg", demo:"https://codepen.io/srikant-nimmagadda/full/RwoPYNp", repo:"https://codepen.io/srikant-nimmagadda/pen/RwoPYNp", tags:["CSS", "JavaScript"]},
+    {name:"Random Quote", img:"./images/random-quote-img.jpg", demo:"https://codepen.io/srikant-nimmagadda/full/RwoPYNp", repo:"https://codepen.io/srikant-nimmagadda/pen/RwoPYNp", tags:["CSS", "JavaScript"]},
 ];
 
 /**
