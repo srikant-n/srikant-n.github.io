@@ -20,7 +20,9 @@ h2 {
 
 .title {
   font-size: 1.3em;
+  line-height: 1em;
   margin: 0;
+  padding:0;
   color: var(--title);
 }
 
@@ -47,6 +49,7 @@ h2 {
 
 .skill-deck > hr {
   margin: 5px 0 5px 10px;
+  color: white;
 }
 /* End Skills */
 
@@ -58,7 +61,7 @@ h2 {
   justify-content: center;
   list-style: none;
   gap: 20px;
-  margin: 20px 0 10px 0;
+  margin: 10px 0 5px 0;
   justify-self: flex-end;
 }
 
