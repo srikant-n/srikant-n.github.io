@@ -1,5 +1,6 @@
 // Data for all projects to display
 const projects = [
+    {name:"My Unsplash", img:"./images/my-unsplash.jpg", demo:"https://devc-my-unsplash.herokuapp.com", repo:"https://github.com/srikant-n/my-unsplash", tags:["React", "Redux", "Bootstrap", "Express", "MongoDB", "Sass", "Jest", "Mocha/Chai"]},
     {name:"Image Uploader", img:"./images/image-uploader.jpg", demo:"https://sn-image-uploader.herokuapp.com/", repo:"https://github.com/srikant-n/image-uploader", tags:["React", "Bootstrap", "Express", "Sass", "Jest", "Cypress"]},
     {name:"EJS To Do", img:"./images/ejs-to-do.jpg", demo:"https://ejs-to-do.srikantn.repl.co/", repo:"https://github.com/srikant-n/ejs-to-do", tags:["EJS", "JavaScript", "Express"]},
     {name:"Launch Countdown Timer", img:"./images/launch-countdown-timer.jpg", demo:"https://srikant-n.github.io/fm-launch-countdown-timer/dist/", repo:"https://github.com/srikant-n/fm-launch-countdown-timer", tags:["Less", "jQuery", "Webpack"]},
