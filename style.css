@@ -2,9 +2,10 @@
 @import "portfolio.css";
 
 * {
-  --bg: #666;
+  --bg: #000;
   --info-bg: #ddd;
   --skills-bg: #eb334b;
+  /* --skills-bg: #169ddb; */
   --title: #db162f;
   --icon: #555;
 }

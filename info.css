@@ -70,7 +70,7 @@ h2 {
 }
 
 .contact a:hover {
-  color: var(--title);
+  color: var(--skills-bg);
 }
 
 .contact svg {
@@ -85,5 +85,19 @@ h2 {
     width: 330px;
     height: 100vh;
     overflow: auto;
+  }
+
+}
+
+
+@media (min-width: 750px) and (min-height: 700px) {
+  .contact {
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+  }
+
+  .skills {
+    margin-top: 10vh;
   }
 }

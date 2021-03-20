@@ -4,12 +4,12 @@ main > h2 {
 }
 
 .portfolio {
-  padding: 20px 20px 40px 20px;
+  padding: 20px 30px 40px 30px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 25px;
 }
 
@@ -138,6 +138,7 @@ main > h2 {
 @media (min-width: 750px) {
   main {
     margin-left: 360px;
+    margin-right: 10px;
     height: 100vh;
     overflow: auto;
   }
