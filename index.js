@@ -1,6 +1,7 @@
 // Data for all projects to display
 const projects = [
     {name:"MERN Auth Demo", img:"./images/mern-auth-demo.jpg", demo:"https://sn-mern-auth-demo.herokuapp.com/", repo:"https://github.com/srikant-n/mern-auth-demo", tags:["React", "React Router", "CSS", "Express", "MongoDB", "Jest", "Mocha/Chai"]},
+    {name:"Blogr Landing Page", img:"./images/blogr-landing-page.jpg", demo:"https://srikant-n.github.io/fm-blogr-landing-page/dist/index.html", repo:"https://github.com/srikant-n/fm-blogr-landing-page", tags:["React", "Styled Components", "Webpack"]},
     {name:"My Unsplash", img:"./images/my-unsplash.jpg", demo:"https://devc-my-unsplash.herokuapp.com", repo:"https://github.com/srikant-n/my-unsplash", tags:["React", "Redux", "Bootstrap", "Express", "MongoDB", "Sass", "Jest", "Mocha/Chai"]},
     {name:"Image Uploader", img:"./images/image-uploader.jpg", demo:"https://sn-image-uploader.herokuapp.com/", repo:"https://github.com/srikant-n/image-uploader", tags:["React", "Bootstrap", "Express", "Sass", "Jest", "Cypress"]},
     {name:"EJS To Do", img:"./images/ejs-to-do.jpg", demo:"https://ejs-to-do.srikantn.repl.co/", repo:"https://github.com/srikant-n/ejs-to-do", tags:["EJS", "JavaScript", "Express"]},
